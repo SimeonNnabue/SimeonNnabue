@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Simeon, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+I'm Simeon, an <a href="https://www.linkedin.com/in/simeon-nnabue-8b9669259/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
