@@ -4,7 +4,7 @@ I'm Simeon, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/simeonnnabue/configure-ad)
+  - [Creating a Vitrual Machine with Azure](https://github.com/simeonnnabue/create-VM)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/simeonnnabue/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/simeonnnabue/osticket-prereqs)
