@@ -18,6 +18,6 @@ I'm Simeon, an <a href="https://www.linkedin.com/in/simeon-nnabue-8b9669259/">IT
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
+[twitter]: 
+[instagram]: 
 [linkedin]: https://www.linkedin.com/in/simeon-nnabue-8b9669259/
