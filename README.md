@@ -5,7 +5,7 @@ I'm Simeon, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1
 
 - <b>Microsoft Azure</b>
   - [Creating a Vitrual Machine with Azure](https://github.com/simeonnnabue/create-VM)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/simeonnnabue/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/simeonnnabue/activedirectory)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/simeonnnabue/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/simeonnnabue/post-install-config)
