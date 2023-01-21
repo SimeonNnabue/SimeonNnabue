@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 I'm Simeon, an <a href="https://www.linkedin.com/in/simeon-nnabue-8b9669259/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
