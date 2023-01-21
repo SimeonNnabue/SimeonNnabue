@@ -8,7 +8,7 @@ I'm Simeon, an <a href="https://www.linkedin.com/in/simeon-nnabue-8b9669259/">IT
   - [Configuring Active Directory within Azure VMs](https://github.com/simeonnnabue/activedirectory)
 - <b>osTicket (Support Ticket System)</b>
   - [Prerequisites and Installation](https://github.com/simeonnnabue/osticket-prereqs)
-  - [Post-Installation Configuration](https://github.com/simeonnnabue/post-install-config)
+  - [Post-Install Configuration](https://github.com/simeonnnabue/post-install-config)
 
 
 <h2>🤳Connect with me:</h2>
