@@ -9,6 +9,8 @@ I'm Simeon, an <a href="https://www.linkedin.com/in/simeon-nnabue-8b9669259/">IT
 - <b>osTicket (Support Ticket System)</b>
   - [Prerequisites and Installation](https://github.com/simeonnnabue/osticket-prereqs)
   - [Post-Install Configuration](https://github.com/simeonnnabue/post-install-config)
+- <b>Mobile Desktop Support</b>
+  - [HDD Installation + Configuring Page File](https://github.com/simeonnnabue/osticket-prereqs) 
 
 
 <h2>🤳Connect with me:</h2>
